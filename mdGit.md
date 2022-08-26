@@ -1,0 +1,17 @@
+- git的status命令：
+  - `git status //查看当前文件修改状态`
+- git的add命令：  
+  - `git add . //添加全部修改`   
+  - `git add 要添加的文件名称或文件夹名称`  
+- git的commit命令：  
+  - `git commit -m 'feat: 描述'//对提交的代码的描述`   
+- git的push命令：
+  - `git push //提交代码到远程`
+- git的checkout命令：
+  - `git checkout -b 分支名  //新建分支名称`
+  - `git cheackout 分支名  //切换到指定的分支名`
+- git的stash命令：
+  - `git stash  //将修改的代码暂存`
+  - `git stash list //查看暂存列表`
+  - `git stash pop //拿出最近的暂存记录`
+  
